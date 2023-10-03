@@ -2,9 +2,7 @@ import random
 
 
 def display_board(places):
-    # The function accepts one parameter containing the places's current status
-    # and prints it out to the console.
-    # the horizontal line(bar) in the board   +-------+-------+-------+
+
     horizontal_line = "+-------" * 3 + "+\n"
     # the empty row  in the board             |       |       |       |
     empty_row = "|       " * 3 + "|\n"
