@@ -10,4 +10,4 @@ A cool game of Tictactoe to enjoy at your leisure made in two programming langua
  featuring the [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax) to make an unbeatable AI player. It has several
  modes and supports six different matchup combinations with different outcomes. 
 
-### Written and Developed in C Programming Language by [**Mohamed Essam**](https://twitter.com/M_ESSAM_S)
+## Written and Developed in C Programming Language by [**Mohamed Essam**](https://twitter.com/M_ESSAM_S)
